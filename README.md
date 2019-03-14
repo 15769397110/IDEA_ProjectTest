@@ -1,2 +1,2 @@
 # IDEA_ProjectTest
-Intellij IDEA第一个上传GitHub测试案例
+GitHub上第一个clone到intellij IDEA上的测试案例
